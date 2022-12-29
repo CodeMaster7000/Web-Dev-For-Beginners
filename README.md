@@ -18,7 +18,7 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson cur
 
 ### _Are you a student?_
 
-Visit [**Student Hub page**](https://docs.microsoft.com/en-gb/learn/student-hub/?WT.mc_id=academic-13441-cxa) where you will find beginner resources, Student packs and even ways to get a free certificate voucher. This is the page you want to bookmark and check from time to time as we switch out content monthly.
+Visit [**Student Hub page**](https://docs.microsoft.com/en-gb/learn/student-hub/?WT.mc_id=academic-13441-cxa) where you will find beginner resources, student packs and even ways to get a free certificate voucher. This is the page you want to bookmark and check from time to time as we switch out content monthly.
 
 # Getting Started
 
